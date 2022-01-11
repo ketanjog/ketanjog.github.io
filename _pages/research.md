@@ -4,4 +4,9 @@ title: My Research Interests
 permalink: /research/
 ---
 
-Under Construction!
+Jack-Litwin
+Dragomir
+Verma
+Mski -> 
+Shiu Lab: Transformer models -> O sativa and gene expression
+SSP Biochemistry: Ustilago Maydis and Cdc-14.
