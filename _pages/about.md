@@ -1,29 +1,31 @@
 ---
 layout: page
-title: About
+title: 
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+{: style="text-align: left"}
+## About My Academic Interests
+Hi! I'm Ketan, a student at Columbia University. I completed my B.A in Math-Statistics at Columbia College, and am currently a junior doing a B.S in Computer Science at the Columbia Engineering School. Check out some of the interesting [classes]({{ site.baseurl }}/courses) I've taken so far!
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+I'm passionate about research in Computational Biology, Reinforcement Learning, Blockchain technology, and most of all AGI - creating synthetic intelligence capable of generalising its learning abilities across environments and tasks. Read more about my [research]({{ site.baseurl }}/research), and [projects]({{ site.baseurl }}/projects).
 
-## Features
+{: style="text-align: left"}
+## Who am I otherwise
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+I'm largely addicted to coffee, and cannot start my day without a hot cup made from freshly ground beans. I try different varieties, with a non-decaying, constant rate of exploration.
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+I love playing the acoustic Guitar, especially fingerstyle. I'm a fitness enthusiast, and I want to get more into adventure sports (next on the list is scuba-diving 😀 ). Poker is one of my favorite ways to relax after a long day, as is reading a nice book.
+
+I'm involved with the Columbia Poker Club, CU-EA (effective altruism) and the Columbia Blockchain Reading Group.
+
+I'm a CBA distinguished bartender and love making whisky drinks 🥃. 
+
+
+
+
+
+{: style="text-align: left" }
+## News and Updates!
+
+- Website is live on Jan 11 2022!
