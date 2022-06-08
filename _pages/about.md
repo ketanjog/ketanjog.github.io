@@ -29,3 +29,7 @@ I'm a CBA distinguished bartender and love making whisky drinks 🥃.
 ## News and Updates!
 
 - Website is live on Jan 11 2022!
+
+## Reach out!
+
+Lets get [coffee](https://calendly.com/ketanjog/coffee-chat), or get on a [zoom call](https://calendly.com/ketanjog/quick-chat) 
