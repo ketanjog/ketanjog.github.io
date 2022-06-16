@@ -6,7 +6,7 @@ permalink: /about/
 
 {: style="text-align: left"}
 ## About My Academic Interests
-Hi! I'm Ketan, a student at Columbia University. I completed my B.A in Math-Statistics at Columbia College, and am currently a junior doing a B.S in Computer Science at the Columbia Engineering School. Check out some of the interesting [classes]({{ site.baseurl }}/courses) I've taken so far!
+Hi! I'm Ketan, a student at Columbia University. I completed my B.A in Math-Statistics at Columbia College, and am currently a senior doing a B.S in Computer Science at the Columbia Engineering School. Check out some of the interesting [classes]({{ site.baseurl }}/courses) I've taken so far!
 
 I'm passionate about projects in Computational Biology, Reinforcement Learning, Blockchain technology, and most of all AGI - creating synthetic intelligence capable of generalising its learning abilities across environments and tasks. Read more about my [research]({{ site.baseurl }}/research), and [projects]({{ site.baseurl }}/projects).
 
